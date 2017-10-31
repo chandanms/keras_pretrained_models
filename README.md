@@ -6,3 +6,5 @@ The script loads all pre trained models of Keras. It takes two arguments
   
   
   --model - model name
+  
+Model names : vgg16, vgg19, inception, xception, resnet
